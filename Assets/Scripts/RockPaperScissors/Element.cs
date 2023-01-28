@@ -26,6 +26,7 @@ public class Element : MonoBehaviour
             if (weaknesses.Contains(element.elementType))
             {
                 Destroy(this.gameObject);
+
             }
         }
     }
