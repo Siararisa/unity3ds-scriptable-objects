@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &8427889248410437830
+--- !u!1001 &7993003498516561940
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -12,12 +12,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1202086234926629162, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4237
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202086234926629162, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4237
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202086234926629162, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4237
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202086234926629162, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.2657566
+      value: 4.48
       objectReference: {fileID: 0}
     - target: {fileID: 1202086234926629162, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.0199866
+      value: -2.64
       objectReference: {fileID: 0}
     - target: {fileID: 1202086234926629162, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -52,40 +64,48 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2155615844960946165, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_Size.x
+      value: 4.153147
+      objectReference: {fileID: 0}
+    - target: {fileID: 2155615844960946165, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_Size.y
+      value: 7.822073
+      objectReference: {fileID: 0}
+    - target: {fileID: 2155615844960946165, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.89157367
+      objectReference: {fileID: 0}
+    - target: {fileID: 2155615844960946165, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.1910516
+      objectReference: {fileID: 0}
+    - target: {fileID: 2155615844960946165, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 2.28
+      value: 6.1
       objectReference: {fileID: 0}
     - target: {fileID: 2155615844960946165, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 3.4
+      value: 8.95
       objectReference: {fileID: 0}
     - target: {fileID: 6223516794170282578, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_Name
-      value: Scissors
+      value: Dynamite Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: elementSO
       value: 
-      objectReference: {fileID: 11400000, guid: 745878d3183c0e845b346c96af42e763, type: 2}
+      objectReference: {fileID: 11400000, guid: 4797e88526a29934dbad3c35f3ef022a, type: 2}
     - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: elementType
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
-      propertyPath: weaknesses.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: weaknesses.Array.data[0]
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
-      propertyPath: weaknesses.Array.data[1]
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7689550427816753753, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1738602267, guid: 7f146ae268dea444389503166407dc42, type: 3}
+      objectReference: {fileID: 21300000, guid: d8f523480ed28d34399b8713bb3b3390, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}

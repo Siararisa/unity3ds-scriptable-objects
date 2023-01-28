@@ -51,21 +51,37 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2155615844960946165, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 2155615844960946165, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 3.28
+      objectReference: {fileID: 0}
     - target: {fileID: 6223516794170282578, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_Name
       value: Paper
       objectReference: {fileID: 0}
+    - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: elementSO
+      value: 
+      objectReference: {fileID: 11400000, guid: dd0060f602d0fbf4ba4a79714711d537, type: 2}
     - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: elementType
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: weaknesses.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: weaknesses.Array.data[0]
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7055820148487125772, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
+      propertyPath: weaknesses.Array.data[1]
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7689550427816753753, guid: 85e607f98e7cad34e9ec3759853e27eb, type: 3}
       propertyPath: m_Sprite
